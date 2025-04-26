@@ -1,12 +1,9 @@
 Unity Version : 6000.0.43f1
 
 Opening File Steps
-
-After downloading the file. and unzip it.
-
-Then open up Unity Hub and Locate and Open the ThaiID Folder. 
-
-Open the unity project and locate the Scene folder and open the sample Scene.
+- After downloading the file. and unzip it.
+- Then open up Unity Hub and Locate and Open the ThaiID Folder.
+- Open the unity project and locate the Scene folder and open the sample Scene.
 
 Personalization Steps:
 Import Both Front and Back of Your ID photo(Edited into the correct Year)
