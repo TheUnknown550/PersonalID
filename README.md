@@ -6,8 +6,8 @@ Opening File Steps
 - Open the unity project and locate the Scene folder and open the sample Scene.
 
 Personalization Steps:
-Import Both Front and Back of Your ID photo(Edited into the correct Year)
-Go into the Image Settings and change:
+- Import Both Front and Back of Your ID photo(Edited into the correct Year)
+- Then go into the Image Settings and change:
   - Texture Type -> Sprite (2D and UI)
   - Sprite Mode -> Single
 
