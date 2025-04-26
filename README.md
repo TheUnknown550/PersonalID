@@ -1,11 +1,11 @@
-Unity Version: 6000.0.43f1
+**Unity Version: 6000.0.43f1**
 
-Opening File Steps
+**Opening File Steps:**
 - After downloading the file. and unzip it.
 - Then open up Unity Hub and locate and open the ThaiID Folder.
 - Open the Unity project, locate the Scene folder, and open the sample Scene.
 
-Personalization Steps:
+**Personalization Steps:**
 - Import Both Front and Back of your ID photo(Edited into the correct Year)
 - Then go into the Image Settings and change:
   - Texture Type -> Sprite (2D and UI)
@@ -20,7 +20,7 @@ There are 4 different ID folders :
   - Canvas/Main Pages/Document/ID Page/BigID/ID
 
 
-DISCLAIMER
+**DISCLAIMER**
 - NEVER USE WITH POLICE OR GOVERNMENT ENTITIES
 - DON'T GET CAUGHT USING IT
 - Make sure to use high-quality photos for the app
